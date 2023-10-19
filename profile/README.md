@@ -4,7 +4,7 @@ Formerly known as "Hand In The Cookie Jar Productions".
 
 | Game | Status |
 | --- | --- |
-| [UnAnnounced Project] | In-Development
+| Unannounced Project | In-Development
 | [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | In-Development
 | [Down The Hole](https://store.steampowered.com/app/1260160/Down_The_Hole/) | Finished
 | [Where Is My Parking Spot](https://store.steampowered.com/app/1374400/Where_Is_My_Parking_Spot/) | Finished
